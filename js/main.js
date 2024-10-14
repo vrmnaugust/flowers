@@ -8,9 +8,9 @@ window.onload = () => {
 
     // Lirik lagu per baris dan durasi dalam milidetik sesuai tempo
     const lyrics = [
-      { text: "I hope he buys you flowers", duration: 1000 },
-      { text: "I hope he holds your hand", duration: 1000 },
-      { text: "Give you all his hours", duration: 1000 },
+      { text: "I hope he buys you flowers", duration: 1500 },
+      { text: "I hope he holds your hand", duration: 1500 },
+      { text: "Give you all his hours", duration: 1500 },
       { text: "When he has the chance", duration: 2000 },
       { text: "Take to every party", duration: 2000 },
       { text: "'Cause I remember how much you loved to dance", duration: 1000 },
